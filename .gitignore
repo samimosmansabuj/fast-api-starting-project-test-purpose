@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# Django-specific
+*.log
+*.pot
+*.py[cod]
+db.sqlite3
+media/
+staticfiles/
+static/
+del/
+delete__/
+
+*.txt
+
+# Environment variables
+.env
+*.bat
+
+# VSCode and IDE folders
+.vscode/
+.idea/
